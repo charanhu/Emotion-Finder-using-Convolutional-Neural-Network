@@ -8,9 +8,11 @@ Emotion Finder using Convolutional Neural Network
 link: https://www.kaggle.com/datasets/msambare/fer2013
 
 2. Required libraries
-    -- Keras
-    -- Tensorflow
-    -- Numpy
-    -- OpenCV
-    -- OpenCV-python
+
+
+    ---- Keras
+    ---- Tensorflow
+    ---- Numpy
+    ---- OpenCV
+    ---- OpenCV-python
 
