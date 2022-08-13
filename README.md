@@ -1,6 +1,6 @@
 # Emotion-Finder-using-Convolutional-Neural-Network
 Emotion Finder using Convolutional Neural Network
-![img](images/sample.png)
+![img](images/sample1.png)
 
 1. Data set link
 ![img](images/DataSet.png)
