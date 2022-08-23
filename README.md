@@ -23,6 +23,9 @@
        6 Model without Transfer Learnig
        7 Model with Tranfer Learning
        8 Model Valiation
+       
+## Model Architecture
+![img](https://github.com/charanhu/Emotion-Finder-using-Convolutional-Neural-Network/blob/main/Model%20architecture.png)
 
 ## 1. Data set link
 
@@ -41,4 +44,6 @@ link: https://www.kaggle.com/datasets/msambare/fer2013
        --> Numpy
        --> OpenCV
        --> OpenCV-python
+       
+   
 
